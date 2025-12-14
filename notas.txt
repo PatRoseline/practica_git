@@ -1,2 +1,4 @@
 Primera nota del Proyecto:
 Este fichero se usará para aprender Git.
+
+Segunda nota añadida al Proyecto.
